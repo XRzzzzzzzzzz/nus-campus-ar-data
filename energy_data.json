@@ -1,0 +1,224 @@
+{
+  "records": [
+    {
+      "dataKey": "BIZ15tbl",
+      "sourceFile": "BIZ15tbl.csv",
+      "totalKWh": 2061005.19,
+      "coolingKWh": 560483.97,
+      "lightingKWh": 672582.54,
+      "equipmentKWh": 827938.68,
+      "floorAreaM2": 10102.42,
+      "euiKWhM2": 204.01
+    },
+    {
+      "dataKey": "BIZ4tbl",
+      "sourceFile": "BIZ4tbl.csv",
+      "totalKWh": 2446219.2,
+      "coolingKWh": 639190.36,
+      "lightingKWh": 767030.45,
+      "equipmentKWh": 1039998.39,
+      "floorAreaM2": 11521.06,
+      "euiKWhM2": 212.33
+    },
+    {
+      "dataKey": "FOE15tbl",
+      "sourceFile": "FOE15tbl.csv",
+      "totalKWh": 811292.94,
+      "coolingKWh": 174585.55,
+      "lightingKWh": 209503.21,
+      "equipmentKWh": 427204.18,
+      "floorAreaM2": 3146.81,
+      "euiKWhM2": 257.81
+    },
+    {
+      "dataKey": "FOE1tbl",
+      "sourceFile": "FOE1tbl.csv",
+      "totalKWh": 3449097.92,
+      "coolingKWh": 958655.72,
+      "lightingKWh": 1150389.89,
+      "equipmentKWh": 1340052.32,
+      "floorAreaM2": 17279.25,
+      "euiKWhM2": 199.61
+    },
+    {
+      "dataKey": "FOE21tbl",
+      "sourceFile": "FOE21tbl.csv",
+      "totalKWh": 912887.22,
+      "coolingKWh": 242563.18,
+      "lightingKWh": 291076.59,
+      "equipmentKWh": 379247.45,
+      "floorAreaM2": 4372.07,
+      "euiKWhM2": 208.8
+    },
+    {
+      "dataKey": "FOE24tbl",
+      "sourceFile": "FOE24tbl.csv",
+      "totalKWh": 1178518.81,
+      "coolingKWh": 411521.94,
+      "lightingKWh": 493827.62,
+      "equipmentKWh": 273169.25,
+      "floorAreaM2": 7417.46,
+      "euiKWhM2": 158.88
+    },
+    {
+      "dataKey": "FOE26tbl",
+      "sourceFile": "FOE26tbl.csv",
+      "totalKWh": 3970040.89,
+      "coolingKWh": 1029080.02,
+      "lightingKWh": 1234899.28,
+      "equipmentKWh": 1706061.58,
+      "floorAreaM2": 18548.61,
+      "euiKWhM2": 214.03
+    },
+    {
+      "dataKey": "FOE3tbl",
+      "sourceFile": "FOE3tbl.csv",
+      "totalKWh": 1738099.72,
+      "coolingKWh": 479533.97,
+      "lightingKWh": 575442.28,
+      "equipmentKWh": 683123.48,
+      "floorAreaM2": 8643.34,
+      "euiKWhM2": 201.09
+    },
+    {
+      "dataKey": "FOE4tbl",
+      "sourceFile": "FOE4tbl.csv",
+      "totalKWh": 329059.06,
+      "coolingKWh": 106054.23,
+      "lightingKWh": 127265.41,
+      "equipmentKWh": 95739.42,
+      "floorAreaM2": 1911.57,
+      "euiKWhM2": 172.14
+    },
+    {
+      "dataKey": "FOE5tbl",
+      "sourceFile": "FOE5tbl.csv",
+      "totalKWh": 2275360.58,
+      "coolingKWh": 666486.6,
+      "lightingKWh": 799786.03,
+      "equipmentKWh": 809087.95,
+      "floorAreaM2": 12013.06,
+      "euiKWhM2": 189.41
+    },
+    {
+      "dataKey": "FOS21tbl",
+      "sourceFile": "FOS21tbl.csv",
+      "totalKWh": 2135620.08,
+      "coolingKWh": 637456.05,
+      "lightingKWh": 764949.27,
+      "equipmentKWh": 733214.76,
+      "floorAreaM2": 11489.8,
+      "euiKWhM2": 185.87
+    },
+    {
+      "dataKey": "FOS25tbl",
+      "sourceFile": "FOS25tbl.csv",
+      "totalKWh": 3262815.87,
+      "coolingKWh": 822707.66,
+      "lightingKWh": 987251.8,
+      "equipmentKWh": 1452856.41,
+      "floorAreaM2": 14828.86,
+      "euiKWhM2": 220.03
+    },
+    {
+      "dataKey": "FOS26tbl",
+      "sourceFile": "FOS26tbl.csv",
+      "totalKWh": 2606365.82,
+      "coolingKWh": 634817.41,
+      "lightingKWh": 761782.9,
+      "equipmentKWh": 1209765.5,
+      "floorAreaM2": 11442.24,
+      "euiKWhM2": 227.78
+    },
+    {
+      "dataKey": "FOS5tbl",
+      "sourceFile": "FOS5tbl.csv",
+      "totalKWh": 1921451.2,
+      "coolingKWh": 495787.99,
+      "lightingKWh": 594947.16,
+      "equipmentKWh": 830716.05,
+      "floorAreaM2": 8936.31,
+      "euiKWhM2": 215.02
+    },
+    {
+      "dataKey": "UT38tbl",
+      "sourceFile": "UT38tbl.csv",
+      "totalKWh": 8032987.16,
+      "coolingKWh": 1934247.31,
+      "lightingKWh": 2321102.88,
+      "equipmentKWh": 3777636.97,
+      "floorAreaM2": 34863.76,
+      "euiKWhM2": 230.41
+    },
+    {
+      "dataKey": "YIH16tbl",
+      "sourceFile": "YIH16tbl.csv",
+      "totalKWh": 390844.66,
+      "coolingKWh": 104063.6,
+      "lightingKWh": 124876.65,
+      "equipmentKWh": 161904.42,
+      "floorAreaM2": 1875.69,
+      "euiKWhM2": 208.37
+    },
+    {
+      "dataKey": "FOE4tbl",
+      "sourceFile": "FOE4tbl.csv",
+      "totalKWh": 329059.06,
+      "coolingKWh": 106054.23,
+      "lightingKWh": 127265.41,
+      "equipmentKWh": 95739.42,
+      "floorAreaM2": 1911.57,
+      "euiKWhM2": 172.14
+    },
+    {
+      "dataKey": "FOE5tbl",
+      "sourceFile": "FOE5tbl.csv",
+      "totalKWh": 2275360.58,
+      "coolingKWh": 666486.6,
+      "lightingKWh": 799786.03,
+      "equipmentKWh": 809087.95,
+      "floorAreaM2": 12013.06,
+      "euiKWhM2": 189.41
+    },
+    {
+      "dataKey": "FOS21tbl",
+      "sourceFile": "FOS21tbl.csv",
+      "totalKWh": 2135620.08,
+      "coolingKWh": 637456.05,
+      "lightingKWh": 764949.27,
+      "equipmentKWh": 733214.76,
+      "floorAreaM2": 11489.8,
+      "euiKWhM2": 185.87
+    },
+    {
+      "dataKey": "FOS25tbl",
+      "sourceFile": "FOS25tbl.csv",
+      "totalKWh": 3262815.87,
+      "coolingKWh": 822707.66,
+      "lightingKWh": 987251.8,
+      "equipmentKWh": 1452856.41,
+      "floorAreaM2": 14828.86,
+      "euiKWhM2": 220.03
+    },
+    {
+      "dataKey": "FOS26tbl",
+      "sourceFile": "FOS26tbl.csv",
+      "totalKWh": 2606365.82,
+      "coolingKWh": 634817.41,
+      "lightingKWh": 761782.9,
+      "equipmentKWh": 1209765.5,
+      "floorAreaM2": 11442.24,
+      "euiKWhM2": 227.78
+    },
+    {
+      "dataKey": "FOS5tbl",
+      "sourceFile": "FOS5tbl.csv",
+      "totalKWh": 1921451.2,
+      "coolingKWh": 495787.99,
+      "lightingKWh": 594947.16,
+      "equipmentKWh": 830716.05,
+      "floorAreaM2": 8936.31,
+      "euiKWhM2": 215.02
+    }
+  ]
+}

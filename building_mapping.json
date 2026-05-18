@@ -1,0 +1,142 @@
+{
+  "mappings": [
+    {
+      "buildingId": "PLOT1BUILDING1",
+      "plotId": "P01",
+      "displayName": "CDE Building 01",
+      "dataKey": "BIZ15tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING2",
+      "plotId": "P01",
+      "displayName": "CDE Building 02",
+      "dataKey": "BIZ4tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING3",
+      "plotId": "P01",
+      "displayName": "CDE Building 03",
+      "dataKey": "FOE15tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING4",
+      "plotId": "P01",
+      "displayName": "CDE Building 04",
+      "dataKey": "FOE1tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING5",
+      "plotId": "P01",
+      "displayName": "CDE Building 05",
+      "dataKey": "FOE21tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING6",
+      "plotId": "P01",
+      "displayName": "CDE Building 06",
+      "dataKey": "FOE24tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING7",
+      "plotId": "P01",
+      "displayName": "CDE Building 07",
+      "dataKey": "FOE26tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING8",
+      "plotId": "P01",
+      "displayName": "CDE Building 08",
+      "dataKey": "FOE3tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING9",
+      "plotId": "P01",
+      "displayName": "CDE Building 09",
+      "dataKey": "FOE4tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING10",
+      "plotId": "P01",
+      "displayName": "CDE Building 10",
+      "dataKey": "FOE5tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING11",
+      "plotId": "P01",
+      "displayName": "CDE Building 11",
+      "dataKey": "FOS21tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING12",
+      "plotId": "P01",
+      "displayName": "CDE Building 12",
+      "dataKey": "FOS25tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING13",
+      "plotId": "P01",
+      "displayName": "CDE Building 13",
+      "dataKey": "FOS26tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING14",
+      "plotId": "P01",
+      "displayName": "CDE Building 14",
+      "dataKey": "FOS5tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING15",
+      "plotId": "P01",
+      "displayName": "CDE Building 15",
+      "dataKey": "UT38tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING16",
+      "plotId": "P01",
+      "displayName": "CDE Building 16",
+      "dataKey": "YIH16tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING17",
+      "plotId": "P01",
+      "displayName": "CDE Building 17",
+      "dataKey": "FOE4tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING18",
+      "plotId": "P01",
+      "displayName": "CDE Building 18",
+      "dataKey": "FOE5tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING19",
+      "plotId": "P01",
+      "displayName": "CDE Building 19",
+      "dataKey": "FOS21tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING20",
+      "plotId": "P01",
+      "displayName": "CDE Building 20",
+      "dataKey": "FOS25tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING21",
+      "plotId": "P01",
+      "displayName": "CDE Building 21",
+      "dataKey": "FOS26tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING22",
+      "plotId": "P01",
+      "displayName": "CDE Building 22",
+      "dataKey": "FOS5tbl"
+    },
+    {
+      "buildingId": "PLOT1BUILDING23",
+      "plotId": "P01",
+      "displayName": "CDE Building 23",
+      "dataKey": "BIZ15tbl"
+    }
+  ]
+}
