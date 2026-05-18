@@ -25,7 +25,7 @@
       "sourceFile": "FOE15tbl.csv",
       "totalKWh": 811292.94,
       "coolingKWh": 174585.55,
-      "lightingKWh": 209503.21,
+      "lightingKWh": 300000,
       "equipmentKWh": 427204.18,
       "floorAreaM2": 3146.81,
       "euiKWhM2": 257.81
